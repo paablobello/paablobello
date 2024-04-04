@@ -4,6 +4,3 @@
 ¡Hola! Soy Pablo Bello, estudiante de Ingeniería Informática y apasionado del desarrollo de software y el emprendimiento. Me encanta transformar ideas en proyectos reales y hacerlos crecer.
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=paablobello&label=Profile%20Views&color=12&icon=5&pretty=false" />
-</a>
