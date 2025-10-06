@@ -26,5 +26,6 @@ I'm a Master's in AI student at Boston University, originally from Spain 🇪�
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN)
-- 💬 [Twitter / X](https://x.com/TU_TWITTER)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-bello-barcon/)
+- 💬 [Twitter / X](https://x.com/Paablobelloo)
+- 🖥️ [My website](https://www.pablobello.me)
