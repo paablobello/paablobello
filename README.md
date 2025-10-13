@@ -20,7 +20,7 @@ I'm a Master's in AI student at Boston University, originally from Spain ðŸ‡ªðŸ‡
 - **Languages:** Python, TypeScript/JavaScript, SQL, Java
 - **Backend:** FastAPI, Node.js, Spring
 - **Frontend:** Next.js, React, Tailwind CSS
-- **AI / ML:** PyTorch, Transformers, LangChain, Scikit-learn, FAISS, OpenAI API
+- **AI / ML:** PyTorch, Transformers, LangChain, Scikit-learn, OpenAI API
 
 ---
 
